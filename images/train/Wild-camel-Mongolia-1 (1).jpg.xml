@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>Wild-camel-Mongolia-1 (1).jpg.webp</filename>
+	<path>/Users/asyl/Desktop/a/Wild-camel-Mongolia-1 (1).jpg.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>112</ymin>
+			<xmax>696</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>bactrian-camel-adventure-world-600w-2471188125.webp</filename>
+	<path>/Users/asyl/Desktop/a/bactrian-camel-adventure-world-600w-2471188125.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>26</ymin>
+			<xmax>526</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

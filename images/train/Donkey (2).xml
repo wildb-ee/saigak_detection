@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>Donkey (2).webp</filename>
+	<path>/Users/asyl/Desktop/a/Donkey (2).webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>donkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>16</ymin>
+			<xmax>749</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

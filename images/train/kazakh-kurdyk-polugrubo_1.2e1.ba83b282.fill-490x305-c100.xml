@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>kazakh-kurdyk-polugrubo_1.2e1.ba83b282.fill-490x305-c100.jpg</filename>
+	<path>/Users/asyl/Desktop/a/kazakh-kurdyk-polugrubo_1.2e1.ba83b282.fill-490x305-c100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>305</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>15</ymin>
+			<xmax>438</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

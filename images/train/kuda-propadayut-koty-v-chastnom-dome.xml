@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>kuda-propadayut-koty-v-chastnom-dome.jpg</filename>
+	<path>/Users/asyl/Desktop/a/kuda-propadayut-koty-v-chastnom-dome.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>881</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>171</ymin>
+			<xmax>763</xmax>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+</annotation>

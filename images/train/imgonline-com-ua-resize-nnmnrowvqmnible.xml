@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>imgonline-com-ua-resize-nnmnrowvqmnible.jpg</filename>
+	<path>/Users/asyl/Desktop/saiga_images/imgonline-com-ua-resize-nnmnrowvqmnible.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>582</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>61</ymin>
+			<xmax>800</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

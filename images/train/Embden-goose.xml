@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>Embden-goose.jpg</filename>
+	<path>/Users/asyl/Desktop/a/Embden-goose.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>126</ymin>
+			<xmax>860</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+</annotation>

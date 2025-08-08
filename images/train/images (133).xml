@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>images (32).jpeg</filename>
+	<path>/Users/asyl/Desktop/a/images (32).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>27</ymin>
+			<xmax>171</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

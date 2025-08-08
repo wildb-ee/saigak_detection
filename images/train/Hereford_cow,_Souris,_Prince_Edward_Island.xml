@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>Hereford_cow,_Souris,_Prince_Edward_Island.jpg</filename>
+	<path>/Users/asyl/Desktop/a/Hereford_cow,_Souris,_Prince_Edward_Island.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>168</ymin>
+			<xmax>981</xmax>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+</annotation>

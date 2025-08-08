@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>кот-в-деревне-кретан-греция-спит-на-ступеньках-улице-маленькой-крит-163933581.webp</filename>
+	<path>/Users/asyl/Desktop/a/кот-в-деревне-кретан-греция-спит-на-ступеньках-улице-маленькой-крит-163933581.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>145</ymin>
+			<xmax>640</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

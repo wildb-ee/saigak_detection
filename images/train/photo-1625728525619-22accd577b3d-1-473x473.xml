@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>photo-1625728525619-22accd577b3d-1-473x473.jpg</filename>
+	<path>/Users/asyl/Desktop/a/photo-1625728525619-22accd577b3d-1-473x473.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>473</width>
+		<height>473</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>35</ymin>
+			<xmax>382</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>35346.jpg</filename>
+	<path>/Users/asyl/Desktop/a/35346.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>3</ymin>
+			<xmax>1029</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+</annotation>

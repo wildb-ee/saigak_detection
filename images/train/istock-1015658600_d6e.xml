@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>istock-1015658600_d6e.webp</filename>
+	<path>/Users/asyl/Desktop/a/istock-1015658600_d6e.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>81</ymin>
+			<xmax>870</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

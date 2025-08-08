@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>BC4_5460-Edit-scaled.webp</filename>
+	<path>/Users/asyl/Desktop/a/BC4_5460-Edit-scaled.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>donkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>386</ymin>
+			<xmax>2163</xmax>
+			<ymax>1533</ymax>
+		</bndbox>
+	</object>
+</annotation>

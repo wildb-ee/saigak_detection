@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>_gluster_2025_6_13_1c644f714441c20a09b36ca2a0b83a05_original.57189.jpg</filename>
+	<path>/Users/asyl/Desktop/a/_gluster_2025_6_13_1c644f714441c20a09b36ca2a0b83a05_original.57189.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>516</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>222</ymin>
+			<xmax>482</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

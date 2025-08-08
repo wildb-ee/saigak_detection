@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>еяте-ьность-са-а-40696565.webp</filename>
+	<path>/Users/asyl/Desktop/a/еяте-ьность-са-а-40696565.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>170</ymin>
+			<xmax>463</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+</annotation>

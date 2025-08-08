@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>istockphoto-831791190-612x612.jpg</filename>
+	<path>/Users/asyl/Desktop/a/istockphoto-831791190-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>421</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>19</ymin>
+			<xmax>408</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

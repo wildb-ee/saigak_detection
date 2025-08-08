@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>cow448.webp</filename>
+	<path>/Users/asyl/Desktop/a/cow448.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2288</width>
+		<height>1712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>345</ymin>
+			<xmax>2162</xmax>
+			<ymax>1502</ymax>
+		</bndbox>
+	</object>
+</annotation>

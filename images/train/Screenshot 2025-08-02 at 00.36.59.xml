@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>Screenshot 2025-08-02 at 00.36.59.png</filename>
+	<path>/Users/asyl/Downloads/saiga_images/Screenshot 2025-08-02 at 00.36.59.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>928</width>
+		<height>584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>187</ymin>
+			<xmax>773</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>GreatGrayOwl_RPrice.webp</filename>
+	<path>/Users/asyl/Desktop/a/GreatGrayOwl_RPrice.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1214</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>owl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>220</ymin>
+			<xmax>1824</xmax>
+			<ymax>1068</ymax>
+		</bndbox>
+	</object>
+</annotation>

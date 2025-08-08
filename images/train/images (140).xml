@@ -1,0 +1,38 @@
+<annotation>
+	<folder>a</folder>
+	<filename>images (39).jpeg</filename>
+	<path>/Users/asyl/Desktop/a/images (39).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>338</width>
+		<height>149</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>25</ymin>
+			<xmax>308</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>camel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>26</ymin>
+			<xmax>155</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

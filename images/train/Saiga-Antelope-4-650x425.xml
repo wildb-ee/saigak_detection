@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>Saiga-Antelope-4-650x425.webp</filename>
+	<path>/Users/asyl/Desktop/saiga_images/Saiga-Antelope-4-650x425.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>63</ymin>
+			<xmax>541</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

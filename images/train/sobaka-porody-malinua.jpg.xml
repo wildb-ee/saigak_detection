@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>sobaka-porody-malinua.jpg.webp</filename>
+	<path>/Users/asyl/Desktop/a/sobaka-porody-malinua.jpg.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>54</ymin>
+			<xmax>837</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

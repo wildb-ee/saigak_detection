@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>%3F%3F%3F%3F%3F_%3F%3F%3F%3F_-_%3F%3F%3F%3F%3F%3F%3F.PNG.webp</filename>
+	<path>/Users/asyl/Desktop/a/%3F%3F%3F%3F%3F_%3F%3F%3F%3F_-_%3F%3F%3F%3F%3F%3F%3F.PNG.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>999</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>316</ymin>
+			<xmax>959</xmax>
+			<ymax>942</ymax>
+		</bndbox>
+	</object>
+</annotation>

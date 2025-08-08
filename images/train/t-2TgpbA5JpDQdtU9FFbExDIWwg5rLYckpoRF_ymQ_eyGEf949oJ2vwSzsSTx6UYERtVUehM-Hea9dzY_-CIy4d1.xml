@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>t-2TgpbA5JpDQdtU9FFbExDIWwg5rLYckpoRF_ymQ_eyGEf949oJ2vwSzsSTx6UYERtVUehM-Hea9dzY_-CIy4d1.jpg</filename>
+	<path>/Users/asyl/Desktop/a/t-2TgpbA5JpDQdtU9FFbExDIWwg5rLYckpoRF_ymQ_eyGEf949oJ2vwSzsSTx6UYERtVUehM-Hea9dzY_-CIy4d1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>23</ymin>
+			<xmax>777</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

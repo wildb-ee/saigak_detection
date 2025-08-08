@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>12e5512771c0f2fa0fe461dde444c5bedbb24877d1b392a5f56bf4c164001633.jpg</filename>
+	<path>/Users/asyl/Desktop/saiga_images/12e5512771c0f2fa0fe461dde444c5bedbb24877d1b392a5f56bf4c164001633.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>686</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>99</ymin>
+			<xmax>614</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

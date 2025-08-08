@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>powerful-saiga-male-tatarica-listed-260nw-1338323558.webp</filename>
+	<path>/Users/asyl/Desktop/saiga_images/powerful-saiga-male-tatarica-listed-260nw-1338323558.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>389</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>8</ymin>
+			<xmax>365</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

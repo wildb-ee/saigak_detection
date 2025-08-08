@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>пожилой-мужчина-выкапывает-землю-в-деревне-старик-фермера-работает-186141531.webp</filename>
+	<path>/Users/asyl/Desktop/a/пожилой-мужчина-выкапывает-землю-в-деревне-старик-фермера-работает-186141531.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>37</ymin>
+			<xmax>731</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

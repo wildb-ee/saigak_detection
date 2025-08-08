@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>202306_artensteckbrief_saiga_antilope_m__nnchen_wasserstelle_foto_rostovdriver_stockadobe_766x383.png</filename>
+	<path>/Users/asyl/Desktop/saiga_images/202306_artensteckbrief_saiga_antilope_m__nnchen_wasserstelle_foto_rostovdriver_stockadobe_766x383.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>766</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>4</ymin>
+			<xmax>685</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

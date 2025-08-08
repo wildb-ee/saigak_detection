@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>45ZJiTfR8wAZE3KYSEs3VrKnrzOMQ0HzGjyqf1Yi.jpeg</filename>
+	<path>/Users/asyl/Desktop/a/45ZJiTfR8wAZE3KYSEs3VrKnrzOMQ0HzGjyqf1Yi.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>9</ymin>
+			<xmax>185</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

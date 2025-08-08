@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg</filename>
+	<path>/Users/asyl/Downloads/saiga_images/Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>330</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>47</ymin>
+			<xmax>307</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

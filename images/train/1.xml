@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>1.webp</filename>
+	<path>/Users/asyl/Desktop/saiga_images/1.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>688</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>120</ymin>
+			<xmax>450</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

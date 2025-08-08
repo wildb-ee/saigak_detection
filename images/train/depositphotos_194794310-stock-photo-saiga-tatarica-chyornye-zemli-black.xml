@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>depositphotos_194794310-stock-photo-saiga-tatarica-chyornye-zemli-black.jpg</filename>
+	<path>/Users/asyl/Desktop/saiga_images/depositphotos_194794310-stock-photo-saiga-tatarica-chyornye-zemli-black.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>73</ymin>
+			<xmax>445</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

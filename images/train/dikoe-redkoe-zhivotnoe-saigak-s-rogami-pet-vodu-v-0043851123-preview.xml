@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>dikoe-redkoe-zhivotnoe-saigak-s-rogami-pet-vodu-v-0043851123-preview.jpg</filename>
+	<path>/Users/asyl/Desktop/saiga_images/dikoe-redkoe-zhivotnoe-saigak-s-rogami-pet-vodu-v-0043851123-preview.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>572</width>
+		<height>431</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>58</ymin>
+			<xmax>372</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

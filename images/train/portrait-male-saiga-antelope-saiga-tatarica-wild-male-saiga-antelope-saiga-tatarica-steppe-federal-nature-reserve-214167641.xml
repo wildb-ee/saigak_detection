@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>portrait-male-saiga-antelope-saiga-tatarica-wild-male-saiga-antelope-saiga-tatarica-steppe-federal-nature-reserve-214167641.webp</filename>
+	<path>/Users/asyl/Desktop/saiga_images/portrait-male-saiga-antelope-saiga-tatarica-wild-male-saiga-antelope-saiga-tatarica-steppe-federal-nature-reserve-214167641.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>601</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>7</ymin>
+			<xmax>381</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

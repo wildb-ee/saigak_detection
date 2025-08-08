@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>brown-cow-pasture-looks-into-600nw-2209835909.webp</filename>
+	<path>/Users/asyl/Desktop/a/brown-cow-pasture-looks-into-600nw-2209835909.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>115</ymin>
+			<xmax>524</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>садовничая-старший-человека-15030948.webp</filename>
+	<path>/Users/asyl/Desktop/a/садовничая-старший-человека-15030948.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>581</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>44</ymin>
+			<xmax>533</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

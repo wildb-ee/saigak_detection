@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>86-866653_big-image-saiga-antelope-png.png</filename>
+	<path>/Users/asyl/Desktop/saiga_images/86-866653_big-image-saiga-antelope-png.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>875</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>43</ymin>
+			<xmax>823</xmax>
+			<ymax>835</ymax>
+		</bndbox>
+	</object>
+</annotation>

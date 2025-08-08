@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>saiga-antelope-tatarica-walks-steppe-260nw-2242873069.webp</filename>
+	<path>/Users/asyl/Desktop/saiga_images/saiga-antelope-tatarica-walks-steppe-260nw-2242873069.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>49</ymin>
+			<xmax>367</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

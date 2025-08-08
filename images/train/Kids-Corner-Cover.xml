@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>Kids-Corner-Cover.jpg</filename>
+	<path>/Users/asyl/Desktop/a/Kids-Corner-Cover.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>846</xmin>
+			<ymin>464</ymin>
+			<xmax>1761</xmax>
+			<ymax>1366</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>raptor-er-western-screech-owl-winston-portrait-jim-shane.jpg</filename>
+	<path>/Users/asyl/Desktop/a/raptor-er-western-screech-owl-winston-portrait-jim-shane.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>owl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>36</ymin>
+			<xmax>462</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

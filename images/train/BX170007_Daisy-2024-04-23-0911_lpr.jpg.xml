@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>BX170007_Daisy-2024-04-23-0911_lpr.jpg.jpeg</filename>
+	<path>/Users/asyl/Desktop/a/BX170007_Daisy-2024-04-23-0911_lpr.jpg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3200</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>928</xmin>
+			<ymin>438</ymin>
+			<xmax>1688</xmax>
+			<ymax>1618</ymax>
+		</bndbox>
+	</object>
+</annotation>

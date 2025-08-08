@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>wild-male-saiga-antelope-or-saiga-tatarica-in-steppe-federal-nature-reserve-mekletinskii-kalmykia-russia-2E2RH0F.jpg</filename>
+	<path>/Users/asyl/Downloads/saiga_images/wild-male-saiga-antelope-or-saiga-tatarica-in-steppe-federal-nature-reserve-mekletinskii-kalmykia-russia-2E2RH0F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>867</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>39</ymin>
+			<xmax>867</xmax>
+			<ymax>1302</ymax>
+		</bndbox>
+	</object>
+</annotation>

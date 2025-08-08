@@ -1,0 +1,38 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>Copyright E.PolonskiyStepnoi Reserve (9)_750x390_0.jpg</filename>
+	<path>/Users/asyl/Desktop/saiga_images/Copyright E.PolonskiyStepnoi Reserve (9)_750x390_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>114</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>18</ymin>
+			<xmax>111</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>38</ymin>
+			<xmax>168</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

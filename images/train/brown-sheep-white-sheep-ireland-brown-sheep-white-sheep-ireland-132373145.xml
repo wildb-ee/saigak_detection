@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>brown-sheep-white-sheep-ireland-brown-sheep-white-sheep-ireland-132373145.webp</filename>
+	<path>/Users/asyl/Desktop/a/brown-sheep-white-sheep-ireland-brown-sheep-white-sheep-ireland-132373145.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>96</ymin>
+			<xmax>636</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>

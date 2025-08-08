@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>bf3cc74s-960.jpg</filename>
+	<path>/Users/asyl/Desktop/saiga_images/bf3cc74s-960.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>6</ymin>
+			<xmax>831</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

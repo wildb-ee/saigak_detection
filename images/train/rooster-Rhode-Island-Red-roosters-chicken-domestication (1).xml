@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>rooster-Rhode-Island-Red-roosters-chicken-domestication (1).webp</filename>
+	<path>/Users/asyl/Desktop/a/rooster-Rhode-Island-Red-roosters-chicken-domestication (1).webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1567</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>131</ymin>
+			<xmax>1374</xmax>
+			<ymax>1409</ymax>
+		</bndbox>
+	</object>
+</annotation>

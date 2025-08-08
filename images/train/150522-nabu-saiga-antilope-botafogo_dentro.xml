@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>150522-nabu-saiga-antilope-botafogo_dentro.jpeg</filename>
+	<path>/Users/asyl/Desktop/saiga_images/150522-nabu-saiga-antilope-botafogo_dentro.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>453</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>88</ymin>
+			<xmax>475</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

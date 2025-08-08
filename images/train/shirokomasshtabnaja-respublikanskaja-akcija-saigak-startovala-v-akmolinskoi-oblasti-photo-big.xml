@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>shirokomasshtabnaja-respublikanskaja-akcija-saigak-startovala-v-akmolinskoi-oblasti-photo-big.jpg</filename>
+	<path>/Users/asyl/Downloads/saiga_images/shirokomasshtabnaja-respublikanskaja-akcija-saigak-startovala-v-akmolinskoi-oblasti-photo-big.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>538</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>72</ymin>
+			<xmax>412</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

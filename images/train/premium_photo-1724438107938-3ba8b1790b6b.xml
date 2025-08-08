@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>premium_photo-1724438107938-3ba8b1790b6b.jpeg</filename>
+	<path>/Users/asyl/Desktop/a/premium_photo-1724438107938-3ba8b1790b6b.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2143</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>donkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>442</ymin>
+			<xmax>2617</xmax>
+			<ymax>2073</ymax>
+		</bndbox>
+	</object>
+</annotation>

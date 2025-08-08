@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>close-up-male-saiga-antelope-tatarica-walking-near-water-hole-winter-coat-walks-steppe-waterhole-265051976.webp</filename>
+	<path>/Users/asyl/Desktop/saiga_images/close-up-male-saiga-antelope-tatarica-walking-near-water-hole-winter-coat-walks-steppe-waterhole-265051976.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>2</ymin>
+			<xmax>731</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,15 @@
+names:
+- saiga
+- cat
+- dog
+- person
+- camel
+- goose
+- chicken
+- horse
+- cow
+- sheep
+nc: 10
+path: /home/fayaz/schwifty/flab_int/yolo_dataset
+train: images/train
+val: images/val

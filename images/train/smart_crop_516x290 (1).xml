@@ -1,0 +1,38 @@
+<annotation>
+	<folder>a</folder>
+	<filename>smart_crop_516x290 (1).jpeg</filename>
+	<path>/Users/asyl/Desktop/a/smart_crop_516x290 (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>516</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>54</ymin>
+			<xmax>422</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>41</ymin>
+			<xmax>312</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

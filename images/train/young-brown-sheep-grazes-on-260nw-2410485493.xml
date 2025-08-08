@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>young-brown-sheep-grazes-on-260nw-2410485493.webp</filename>
+	<path>/Users/asyl/Desktop/a/young-brown-sheep-grazes-on-260nw-2410485493.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>29</ymin>
+			<xmax>330</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

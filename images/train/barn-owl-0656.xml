@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>barn-owl-0656.jpg</filename>
+	<path>/Users/asyl/Desktop/a/barn-owl-0656.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>owl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>178</ymin>
+			<xmax>818</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>kleshh-skotu-ne-tovarishh.png</filename>
+	<path>/Users/asyl/Desktop/saiga_images/kleshh-skotu-ne-tovarishh.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>872</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>161</ymin>
+			<xmax>649</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

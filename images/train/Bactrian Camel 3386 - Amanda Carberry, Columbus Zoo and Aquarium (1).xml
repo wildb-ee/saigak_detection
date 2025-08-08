@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>Bactrian Camel 3386 - Amanda Carberry, Columbus Zoo and Aquarium (1).jpg</filename>
+	<path>/Users/asyl/Desktop/a/Bactrian Camel 3386 - Amanda Carberry, Columbus Zoo and Aquarium (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1068</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>235</ymin>
+			<xmax>1250</xmax>
+			<ymax>925</ymax>
+		</bndbox>
+	</object>
+</annotation>

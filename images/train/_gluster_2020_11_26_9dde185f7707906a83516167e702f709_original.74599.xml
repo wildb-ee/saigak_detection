@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>_gluster_2020_11_26_9dde185f7707906a83516167e702f709_original.74599.jpg</filename>
+	<path>/Users/asyl/Desktop/saiga_images/_gluster_2020_11_26_9dde185f7707906a83516167e702f709_original.74599.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>614</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>125</ymin>
+			<xmax>755</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

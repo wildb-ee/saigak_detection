@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>antique-vintage-historical-imagines-pictures-of-full-prospect-catalogue-of-the-german-animal-merchant-zoo-founder-and-zoo-director-carl-hagenbeck-businessman-from-hamburg-1911-saiga-antilope-saiga-antelope-additional-rights-clearance-info-n.jpg</filename>
+	<path>/Users/asyl/Desktop/saiga_images/antique-vintage-historical-imagines-pictures-of-full-prospect-catalogue-of-the-german-animal-merchant-zoo-founder-and-zoo-director-carl-hagenbeck-businessman-from-hamburg-1911-saiga-antilope-saiga-antelope-additional-rights-clearance-info-n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1163</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>74</ymin>
+			<xmax>1048</xmax>
+			<ymax>1013</ymax>
+		</bndbox>
+	</object>
+</annotation>

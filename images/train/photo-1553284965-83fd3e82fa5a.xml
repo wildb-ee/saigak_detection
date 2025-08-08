@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>photo-1553284965-83fd3e82fa5a.jpeg</filename>
+	<path>/Users/asyl/Desktop/a/photo-1553284965-83fd3e82fa5a.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>1999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>482</ymin>
+			<xmax>2201</xmax>
+			<ymax>1663</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>Koe_in_weiland_bij_Gorssel.JPG</filename>
+	<path>/Users/asyl/Desktop/a/Koe_in_weiland_bij_Gorssel.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>905</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>261</ymin>
+			<xmax>1081</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+</annotation>

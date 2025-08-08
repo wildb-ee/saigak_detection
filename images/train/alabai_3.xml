@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>alabai_3.jpg</filename>
+	<path>/Users/asyl/Desktop/a/alabai_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>73</ymin>
+			<xmax>757</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

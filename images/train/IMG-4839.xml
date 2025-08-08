@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>IMG-4839.jpeg</filename>
+	<path>/Users/asyl/Desktop/a/IMG-4839.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1946</width>
+		<height>2595</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>1036</ymin>
+			<xmax>1394</xmax>
+			<ymax>2419</ymax>
+		</bndbox>
+	</object>
+</annotation>

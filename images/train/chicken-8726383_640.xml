@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>chicken-8726383_640.jpg</filename>
+	<path>/Users/asyl/Desktop/a/chicken-8726383_640.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>90</ymin>
+			<xmax>442</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

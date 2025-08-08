@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>images (44).jpeg</filename>
+	<path>/Users/asyl/Desktop/a/images (44).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>223</width>
+		<height>226</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>17</ymin>
+			<xmax>196</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

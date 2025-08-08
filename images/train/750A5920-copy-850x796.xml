@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>750A5920-copy-850x796.jpg</filename>
+	<path>/Users/asyl/Desktop/a/750A5920-copy-850x796.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>796</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>owl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>188</ymin>
+			<xmax>727</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+</annotation>

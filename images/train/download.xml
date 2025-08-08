@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>download.jpeg</filename>
+	<path>/Users/asyl/Desktop/a/download.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>880</width>
+		<height>1318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>donkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>291</ymin>
+			<xmax>795</xmax>
+			<ymax>1293</ymax>
+		</bndbox>
+	</object>
+</annotation>

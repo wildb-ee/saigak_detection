@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>360_F_84091840_8wn1lAJ7jIuYRczt4PRqrrZUoAOoPVrO.jpg</filename>
+	<path>/Users/asyl/Desktop/a/360_F_84091840_8wn1lAJ7jIuYRczt4PRqrrZUoAOoPVrO.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>15</ymin>
+			<xmax>482</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

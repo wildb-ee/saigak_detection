@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>alabai_sobaka_oblogka_960-960x540.jpg</filename>
+	<path>/Users/asyl/Desktop/a/alabai_sobaka_oblogka_960-960x540.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>72</ymin>
+			<xmax>833</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>tcERn0WfUveNMriYVD8USavAskHl71k80qevYCDUdZg8XJYzS94iWQ-CzTSMAEB4pXLwe8ypGcItu5hY7JVM80Kg.jpg</filename>
+	<path>/Users/asyl/Desktop/a/tcERn0WfUveNMriYVD8USavAskHl71k80qevYCDUdZg8XJYzS94iWQ-CzTSMAEB4pXLwe8ypGcItu5hY7JVM80Kg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>35</ymin>
+			<xmax>558</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>saygak-molodoy-samec-v-al-gayskom-r-ne (1).jpg</filename>
+	<path>/Users/asyl/Downloads/saiga_images/saygak-molodoy-samec-v-al-gayskom-r-ne (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>715</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>239</ymin>
+			<xmax>575</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

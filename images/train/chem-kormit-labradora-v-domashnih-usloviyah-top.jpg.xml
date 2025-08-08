@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>chem-kormit-labradora-v-domashnih-usloviyah-top.jpg.webp</filename>
+	<path>/Users/asyl/Desktop/a/chem-kormit-labradora-v-domashnih-usloviyah-top.jpg.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>49</ymin>
+			<xmax>545</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

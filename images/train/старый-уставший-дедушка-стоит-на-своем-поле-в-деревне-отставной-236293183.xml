@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>старый-уставший-дедушка-стоит-на-своем-поле-в-деревне-отставной-236293183.webp</filename>
+	<path>/Users/asyl/Desktop/a/старый-уставший-дедушка-стоит-на-своем-поле-в-деревне-отставной-236293183.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>457</xmin>
+			<ymin>53</ymin>
+			<xmax>692</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

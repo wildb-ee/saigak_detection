@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>owl-flying-great-grey-level-flight-beautiful-bird-pr-strix-nebulosa-prey-hunting-side-view-silent-hunter-animal-against-111122710.webp</filename>
+	<path>/Users/asyl/Desktop/a/owl-flying-great-grey-level-flight-beautiful-bird-pr-strix-nebulosa-prey-hunting-side-view-silent-hunter-animal-against-111122710.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>owl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>69</ymin>
+			<xmax>732</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

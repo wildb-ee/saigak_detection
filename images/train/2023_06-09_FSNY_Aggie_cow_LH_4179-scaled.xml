@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>2023_06-09_FSNY_Aggie_cow_LH_4179-scaled.jpg</filename>
+	<path>/Users/asyl/Desktop/a/2023_06-09_FSNY_Aggie_cow_LH_4179-scaled.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1704</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>266</ymin>
+			<xmax>1955</xmax>
+			<ymax>1661</ymax>
+		</bndbox>
+	</object>
+</annotation>

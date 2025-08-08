@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg</filename>
+	<path>/Users/asyl/Desktop/a/Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>803</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>184</ymin>
+			<xmax>1015</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>bulanyy_kon_3_27050344.webp</filename>
+	<path>/Users/asyl/Desktop/a/bulanyy_kon_3_27050344.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>8</ymin>
+			<xmax>530</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

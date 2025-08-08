@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>Fig-2-Wild-male-Saiga-antelope-Saiga-tatarica-on-the-morning-steppe-Federal-nature.png</filename>
+	<path>/Users/asyl/Desktop/saiga_images/Fig-2-Wild-male-Saiga-antelope-Saiga-tatarica-on-the-morning-steppe-Federal-nature.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>52</ymin>
+			<xmax>819</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>

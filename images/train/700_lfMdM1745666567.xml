@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>700_lfMdM1745666567.jpg</filename>
+	<path>/Users/asyl/Desktop/a/700_lfMdM1745666567.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>525</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>186</ymin>
+			<xmax>369</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

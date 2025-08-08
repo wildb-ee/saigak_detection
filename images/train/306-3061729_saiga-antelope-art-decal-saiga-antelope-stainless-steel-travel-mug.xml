@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saiga_images</folder>
+	<filename>306-3061729_saiga-antelope-art-decal-saiga-antelope-stainless-steel-travel-mug.png</filename>
+	<path>/Users/asyl/Desktop/saiga_images/306-3061729_saiga-antelope-art-decal-saiga-antelope-stainless-steel-travel-mug.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saiga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>13</ymin>
+			<xmax>288</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>
