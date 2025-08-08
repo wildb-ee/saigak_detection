@@ -218,12 +218,10 @@ def test_model(model_path, test_image_path):
 
 if __name__ == "__main__":
     try:
-        # Install required packages first:
-        # pip install ultralytics
+
         
         #train_yolo_model()
         
-        # Uncomment below to test the model after training
         test_results = test_model('saiga_detection/yolov8_saiga/weights/best.pt', 'test11.webp')
         
     except Exception as e:
